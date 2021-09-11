@@ -14,11 +14,14 @@ To use the Leaflet.js Application Programming Interface (API) to populate a geog
 - Deliverable 1: Add Tectonic Plate Data
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
 
+![alt tag](https://github.com/elrvra/Mapping_Earthquakes/blob/main/Resources/Deliverable1pic.png)
 
 - Deliverable 2: Add Major Earthquake Data
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(), and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
 
+![alt tag](https://github.com/elrvra/Mapping_Earthquakes/blob/main/Resources/Deliverable2pic.png)
 
 - Deliverable 3: Add an Additional Map
 Using your knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
 
+![alt tag](https://github.com/elrvra/Mapping_Earthquakes/blob/main/Resources/Deliverable3pic.png)
